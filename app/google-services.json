@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "29003712814",
+    "firebase_url": "https://kreker-5bead.firebaseio.com",
+    "project_id": "kreker-5bead",
+    "storage_bucket": "kreker-5bead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29003712814:android:b17c961b41f8689a",
+        "android_client_info": {
+          "package_name": "com.example.tanya.kreker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29003712814-gnlt4md2flmu290ffvu01pl0jbvqh6aj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tanya.kreker",
+            "certificate_hash": "c57232a92d8303b495798eb393a07af1073b7fb1"
+          }
+        },
+        {
+          "client_id": "29003712814-3pj93dqm7m0bcjilbss8sfo8bcr936q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzu96yok2vDE1i4znZLgOHFQIYOcsqsUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29003712814-3pj93dqm7m0bcjilbss8sfo8bcr936q6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
